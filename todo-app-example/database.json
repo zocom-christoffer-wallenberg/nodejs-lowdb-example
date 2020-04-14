@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "todo": "Buy milk",
+      "id": 1
+    },
+    {
+      "todo": "Buy newspaper",
+      "id": 2
+    },
+    {
+      "todo": "Walk the dog",
+      "id": 3
+    },
+    {
+      "todo": "Read newspaper",
+      "id": 4
+    },
+    {
+      "todo": "Drink milk",
+      "id": 5
+    },
+    {
+      "todo": "Drink milk",
+      "id": 6
+    }
+  ]
+}
